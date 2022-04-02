@@ -13,3 +13,11 @@ Gravity Test: Pixel 4a 1080x2340
 Prototype Running Game: iPad Pro 2048x2732
 
 Zero Gravity: Custom Device 3500x2500
+
+Instruction for each program:
+
+Gravity Test: Type 'Spacebar' in order to jump. Type '< (Left)' Button to decrease gravity level while typing '> (Right)' increase the gravity level by one. Try to test jumping with both low and high level gravity! 
+
+Prototype Running Game: Type 'Spacebar' to jump to collect cubes and avoid murder robots. Try to survive with 5 lives and collect the most points. If the lives reaches zero it is game over! 
+
+Zero Gravity: Type Left, Right, Up and Down button to move in this zero gravity space. Mashes all those button together for an extra level amount of headache! 
