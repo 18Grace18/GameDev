@@ -7,6 +7,9 @@ After installed, the user must open the Corona (Solar2D) Simulator, then click o
 Note that the resolution view of the program may be different for each device. To set up the resolution view correctly, you can set it up by clicking on the View tab of the program -> View as -> Select one of the devices resolution (it can be ranged from iPad, Samsung, or even custom resolutions, etc.)
 
 Recommended resolution for each program:
+
 Gravity Test: Pixel 4a 1080x2340
+
 Prototype Running Game: iPad Pro 2048x2732
+
 Zero Gravity: Custom Device 3500x2500
